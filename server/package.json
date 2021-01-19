@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Nodejs Express Postgress backend for a committee tracking app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelDuke/committee_tracker_postgres.git"
+  },
+  "author": "SamuelDuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelDuke/committee_tracker_postgres/issues"
+  },
+  "homepage": "https://github.com/SamuelDuke/committee_tracker_postgres#readme"
+}
